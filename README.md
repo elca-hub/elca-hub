@@ -4,15 +4,21 @@
 
 My favorite is...:yellow_heart:
 
-<table border="0">
-  <tr>
+<table width="100%">
+  <tr align="center">
     <td valign="center">
       <img src="img/vue.svg" height="40px">
     </td>
+    <td valign="center">
+      <img src="img/docker-icon.svg" height="40px">
+    </td>
   </tr>
-  <tr>
-    <td valign="center" align="center">
+  <tr align="center">
+    <td valign="center">
       vue.js
+    </td>
+    <td valign="center">
+      Docker
     </td>
   </tr>
 </table>
