@@ -4,7 +4,7 @@
 
 My favorite is...:yellow_heart:
 
-<table width="100%">
+<table align="center">
   <tr align="center">
     <td valign="center">
       <img src="img/vue.svg" height="40px">
