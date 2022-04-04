@@ -10,7 +10,7 @@ My favorite is...:yellow_heart:
       <img src="img/vue.svg" height="40px">
     </td>
   </tr>
-  <tr bgcolor="white">
+  <tr>
     <td valign="center" align="center">
       vue.js
     </td>
