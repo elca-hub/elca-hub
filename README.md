@@ -5,10 +5,8 @@
 My favorite is...:yellow_heart:
 
 
-Vue.js <img src="img/vue.svg" width="16px"> / Docker / TypeScript / Node.js
-
-<div style="display: flex; justify-content: center;">
-Vue.js <img src="img/vue.svg" width="16px">
+<div style="font-size: 16px">
+Vue.js <img src="img/vue.svg" height="16px"> / Docker / TypeScript / Node.js
 </div>
 
 And also I am learning...:memo:
