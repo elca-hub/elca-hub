@@ -4,10 +4,18 @@
 
 My favorite is...:yellow_heart:
 
-
-<div style="font-size: 16px">
-Vue.js <img src="img/vue.svg" height="16px"> / Docker / TypeScript / Node.js
-</div>
+<table>
+  <tr>
+    <td valign="center">
+      <img src="img/vue.svg" height="40px">
+    </td>
+  </tr>
+  <tr>
+    <td valign="center" align="center">
+      vue.js
+    </td>
+  </tr>
+</table>
 
 And also I am learning...:memo:
 
