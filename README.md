@@ -2,7 +2,7 @@
   Elca
 </h1>
 
-My favorite is...:yellow_heart:
+My favorite is...
 
 <table align="center">
   <tr align="center">
@@ -37,4 +37,21 @@ My favorite is...:yellow_heart:
 
 And also I am learning...:memo:
 
-Kotlin / Spring boot
+<table align="center">
+  <tr align="center">
+    <td valign="center">
+      <img src="img/kotlin.svg" height="40px">
+    </td>
+    <td valign="center">
+      <img src="img/spring-icon.svg" height="40px">
+    </td>
+  </tr>
+  <tr align="center">
+    <td valign="center">
+      Kotlin
+    </td>
+    <td valign="center">
+      Spring Boot
+    </td>
+  </tr>
+</table>
