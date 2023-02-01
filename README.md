@@ -7,6 +7,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elca-hub&layout=compact" height="150px">
 </p>
 
+## Country
+
+<p align="center">
+  Japan :jp:
+</p>
+
 ## My Favorite
 
 <p align="center">
@@ -19,6 +25,7 @@
 ## Learning
 
 <p align="center">
+  <img src="img/java.svg" height="30px" />
   <img src="img/kotlin.svg" height="30px" />
   <img src="img/spring-icon.svg" height="30px" />
 </p>
