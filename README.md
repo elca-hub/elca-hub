@@ -11,6 +11,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elca-hub&layout=compact" height="150px">
 </p>
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elca-hub" height="200px">
+</p>
+
 ## Country
 
 <p align="center">
