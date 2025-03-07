@@ -25,20 +25,25 @@ Japan :jp:
 
 <a href="https://portfolio.elca-web.com">here!</a>
 
-
 ### My Favorite
 
 <p>
-  <img src="img/vue.svg" height="30px" />
-  <img src="img/docker-icon.svg" height="30px" />
-  <img src="img/nodejs-icon.svg" height="30px" />
-  <img src="img/typescript-icon.svg" height="30px" />
+  <img src="img/go.svg" height="30px" />
+  <img src="img/docker.svg" height="30px" />
+  <img src="img/nextjs.svg" height="30px" />
+  <img src="img/java.svg" height="30px" />
+  <img src="img/spring.svg" height="30px" />
+  <img src="img/fargate.svg" height="30px" />
 </p>
 
-### Learning
+### Tools or languages I use most often
 
 <p>
-  <img src="img/java.svg" height="30px" />
-  <img src="img/kotlin.svg" height="30px" />
-  <img src="img/spring-icon.svg" height="30px" />
+  <img src="img/mysql.svg" height="30px" />
+  <img src="img/docker.svg" height="30px" />
+  <img src="img/arc.svg" height="30px" />
+  <img src="img/goland.svg" height="30px" />
+  <img src="img/datagrip.svg" height="30px" />
+  <img src="img/vim.svg" height="30px" />
+  <img src="img/aws.svg" height="30px" />
 </p>
