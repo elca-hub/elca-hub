@@ -15,24 +15,29 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elca-hub" height="200px">
 </p>
 
-## Country
+## About Me
 
-<p align="center">
-  Japan :jp:
-</p>
+### Country
 
-## My Favorite
+Japan :jp:
 
-<p align="center">
+### My Site
+
+<a href="https://portfolio.elca-web.com">here!</a>
+
+
+### My Favorite
+
+<p>
   <img src="img/vue.svg" height="30px" />
   <img src="img/docker-icon.svg" height="30px" />
   <img src="img/nodejs-icon.svg" height="30px" />
   <img src="img/typescript-icon.svg" height="30px" />
 </p>
 
-## Learning
+### Learning
 
-<p align="center">
+<p>
   <img src="img/java.svg" height="30px" />
   <img src="img/kotlin.svg" height="30px" />
   <img src="img/spring-icon.svg" height="30px" />
