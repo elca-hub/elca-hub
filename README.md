@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="img/elca-icon.jpg" height="200px">
+  <img src="img/icon-ver3.png" height="200px">
 </p>
 
 <p align="center">
